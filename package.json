@@ -1,0 +1,28 @@
+{
+  "name": "NBAConsole",
+  "version": "1.0.0",
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/EliotChignell/NBAConsole)](https://repl.it/github/EliotChignell/NBAConsole) A NodeJS-based tool for NBA scores, standings, stats and more.",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliotChignell/NBAConsole.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliotChignell/NBAConsole/issues"
+  },
+  "homepage": "https://github.com/EliotChignell/NBAConsole#readme"
+}
